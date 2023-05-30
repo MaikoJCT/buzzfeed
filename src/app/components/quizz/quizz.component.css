@@ -1,0 +1,12 @@
+.quizz-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+.quizz-logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
